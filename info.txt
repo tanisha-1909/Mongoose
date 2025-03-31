@@ -17,3 +17,9 @@ then .load index.js
 }
 undefined
 
+----------------
+
+operation buffering
+mongooose lets you start using your models immediately
+ without waiting for mongoose to
+  estabilish a connection to mongodb
