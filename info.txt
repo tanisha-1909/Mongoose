@@ -1,0 +1,19 @@
+in terminal
+
+type node
+
+then .load index.js
+(to view and understand file better)
+
+
+----------------------------
+> successful
+> console.log(user1);
+{
+  name: 'Tanisha',
+  email: 'tanisha@yahoo.in',
+  age: 20,
+  _id: new ObjectId('67ea9d8de51eeabf50309bdf')
+}
+undefined
+
