@@ -1,0 +1,11 @@
+rules are only applied in insertion
+
+
+if we UPDATE price to be 1
+it will successfully UPDATE
+
+to set rules in updates
+in findbyviewbyidandupdate
+
+set runvalidator to be true
+(constraint)
